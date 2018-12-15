@@ -5,7 +5,7 @@
 #### The file should be organized as follows:
 
 |name |band |album |length |year |key |capo |bpm
-|:---:|:---:|:----:|:-----:|:---:
-|*Lights In Las Vegas*|*To Better Waters*|*Days of Ours*|*00:03:56*|*2015*|*E*|*0*|*112*|
+|:---:|:---:|:----:|:-----:|:---:|:---:|:---:|:---:
+|*Lights In Las Vegas*|*To Better Waters*|*Days of Ours*|*00:03:56*|*2015*|*E*|*0*|*112*
 
 `stayTuned` 🦉
