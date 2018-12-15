@@ -1,11 +1,18 @@
 ## Setlist Generator
 
-# This script reads in a file with a list of song data and autogenerates a setlist.
+# This script reads in a file with a list of song data and autogenerates a random setlist.
 
-#### The file should be organized as follows:
+---
 
-|name |band |album |length |year |key |capo |bpm
+#### Legion Brewing 12/12/2018
+
+| SET 1 |# |name |band |album |length |year |key |capo |bpm
 |:---:|:---:|:----:|:-----:|:---:|:---:|:---:|:---:
-|*Lights In Las Vegas*|*To Better Waters*|*Days of Ours*|*00:03:56*|*2015*|*E*|*0*|*112*
+| |*1*|*Lights In Las Vegas*|*To Better Waters*|*Days of Ours*|*00:03:56*|*2015*|*E*|*0*|*112*
+| |*...*|*...*|*...*|*...*|*...*|*...*|*...*|*...*|*...*
+
+---
+
+*Options: breaks, notes, crowd comments, tuning.*
 
 `stayTuned` 🦉
